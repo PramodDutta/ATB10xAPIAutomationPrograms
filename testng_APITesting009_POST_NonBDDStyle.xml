@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
     <test name="ATB10XAPIAutomationProgram">
         <classes>
-            <class name="com.thetestingacademy.ex02_RA_TestNG_AllureReport.APITesting005_TC_TestNG_Fix"></class>
+            <class name="com.thetestingacademy.ex04_POST_Request.APITesting009_POST_NonBDDStyle"></class>
         </classes>
     </test>
 </suite>
