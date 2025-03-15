@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" parallel="false">
+    <test name="API Test Cases">
+
+        <groups>
+            <run>
+                <include name="sanity">
+                </include>
+            </run>
+        </groups>
+
+
+
+        <classes>
+            <class name="com.thetestingacademy.ex08_testNGExamples.APITesting017_TestNG_Groups"/>
+        </classes>
+    </test>
+</suite>
